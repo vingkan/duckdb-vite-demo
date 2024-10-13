@@ -41,6 +41,9 @@ const FRIENDS = [
   'Keegan',
   'Lauren',
   'Nancy',
+  'Shoji',
+  'James',
+  'Laura',
 ]
 
 async function insertFriends(conn: AsyncDuckDBConnection) {
